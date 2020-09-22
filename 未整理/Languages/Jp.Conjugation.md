@@ -1,17 +1,5 @@
----
-title: 用言活用
-date: 2019-04-08
-tags:
-- japanese
-- grammar
-- conjugation
-- languages
-categories:
-- languages
-- japanese
-location: 四川大學
-description: 日語中各種用言的活用並簡單地舉了幾個例子。
----
+# 用言活用
+
 ## 名词
 
 <div class="note warning">名词是没有活用的，这里只是将だ和形容动词的だ作对比。</div>
@@ -22,7 +10,8 @@ description: 日語中各種用言的活用並簡單地舉了幾個例子。
 | 简体 | 学生だ | 学生ではない | 学生だった |学生ではなかった|
 | 敬体 | 学生です | 学生ではないです | 学生でした |学生ではなかったです|
 
-{% mermaid graph TD %}
+```mermaid
+graph ltr
 Z[だ] -->|簡体| A(だ)
 	A -->|過去形| B(だった)
     A -->|否定形| C(ではない)
@@ -42,7 +31,9 @@ Z -->|敬体| E
     F -->|否定形| H[ではありませんでした]
     G -->|過去形| H[ではありませんでした]
     H -->|疑問形| J[+か]
-{% endmermaid %}
+```
+
+
 
 <div class="note info">ないです＝ありません；
 故：ではないです＝ではありません；
