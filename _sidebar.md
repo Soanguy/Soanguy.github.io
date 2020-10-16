@@ -22,4 +22,3 @@
 
 
 + [日语](Japanese_Minna/README.md)
-+ 汉语
