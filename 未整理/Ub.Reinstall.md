@@ -185,7 +185,7 @@ sudo apt-get install ibus-rime
 
 现在已经可以通过软件商店或者 新立德 安装。</div>
 
-### [~~vmvare player~~(http://www.vmware.com/products/player/playerpro-evaluation.html)（虚拟机）
+### [~~vmvare player~~](http://www.vmware.com/products/player/playerpro-evaluation.html)（虚拟机）
 
 ### [~~f.lux~~](https://launchpad.net/~nathan-renniewaldock/+archive/ubuntu/flux/+packages)（自动调色温的软件，保护视力）
 
